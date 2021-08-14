@@ -94,3 +94,12 @@
 2021-08-13 23:59:06,158 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
 2021-08-14 00:10:45,009 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
 2021-08-14 00:15:33,020 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2021-08-14 00:26:32,393 [Worker-2: Creating project "04_labJava"] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: emailJava:04_labJava:0.0.1-SNAPSHOT @ C:\Users\alexander.Ftec\Google Drive\eclipse-workspace\01_eclipse-workspace\04_labJava\pom.xml.
+2021-08-14 00:26:33,174 [Worker-2: Creating project "04_labJava"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /04_labJava/src/main/java
+2021-08-14 00:26:33,176 [Worker-2: Creating project "04_labJava"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /04_labJava/src/main/resources
+2021-08-14 00:26:33,176 [Worker-2: Creating project "04_labJava"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /04_labJava/src/test/java
+2021-08-14 00:26:33,176 [Worker-2: Creating project "04_labJava"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /04_labJava/src/test/resources
+2021-08-14 00:26:35,055 [Worker-2: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-14 00:26:35,068 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-14 00:26:35,070 [Worker-2: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-14 00:26:35,071 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource

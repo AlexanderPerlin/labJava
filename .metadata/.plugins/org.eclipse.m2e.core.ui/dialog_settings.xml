@@ -43,12 +43,12 @@
 	</section>
 	<section name="MavenProjectWizardArtifactPage">
 		<list key="groupId">
-			<item value="04_envioDeEmail"/>
+			<item value="emailJava"/>
 		</list>
 		<list key="name">
 		</list>
 		<list key="artifactId">
-			<item value="email"/>
+			<item value="04_labJava"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
